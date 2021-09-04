@@ -10,4 +10,4 @@ ShellSort.asm is an implementation of the shell sort algorithm in MIPS.
 MIPSDecoder.c - when run in the terminal, pass in a 32-bit binary string that is a valid MIPS instruction code, and the program will decode and print the actual assembly instruction. e.g.
 
 ./a.out 00000010001100100100000000100000
-add $t0 $s1 $s2
+<br /> add $t0 $s1 $s2
